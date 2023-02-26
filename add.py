@@ -1,5 +1,4 @@
-a=10
-b=12
-c=a+b
-print(c+c+c)
-print("beyyyyy")
+a=1
+b=2
+c=1
+print(a+b+c)
